@@ -82,4 +82,5 @@
 		WHERE
 			delete_yn = 'N'
 	</select>
+
 </mapper>

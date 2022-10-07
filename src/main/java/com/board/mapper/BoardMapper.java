@@ -14,4 +14,6 @@ public interface BoardMapper {
 	public int deleteBoard(long idx);
 	public List<BoardDTO> selectBoardList();
 	public int selectBoardTotalCount();
+
+
 }
